@@ -11,6 +11,10 @@
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
 
+![Captura de pantalla 2024-06-05 164222](https://github.com/Alejandro-Jimenez-Daza/CRUD-Laravel/assets/94633477/0d6d8d8d-1a18-484d-b01a-d377dbfdc7a0)
+![Captura de pantalla 2024-06-05 164130](https://github.com/Alejandro-Jimenez-Daza/CRUD-Laravel/assets/94633477/114895d1-0a30-44dc-9c92-9c3a30f69aac)
+
+
 - [Simple, fast routing engine](https://laravel.com/docs/routing).
 - [Powerful dependency injection container](https://laravel.com/docs/container).
 - Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
